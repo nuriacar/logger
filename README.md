@@ -13,7 +13,7 @@ Bir gün **Keylogger** ve **Screenlogger** geliştirmek istedim. Her ne kadar **
 
 **Python**'la istediğim şekilde yapamazmışım. C gerekiyormuş. **Deitel C**, kitaplığımdan "**kıps**" yaptı.
 
-![Barbara herhalde. Manken olan...](./assets/img/manken-olan-barbara-winked-me.gif "Barbara herhalde. Manken olan...")
+![Barbara herhalde. Manken olan...](./assets/gif/manken-olan-barbara-winked-me.gif "Barbara herhalde. Manken olan...")
 
 Bir süre göz gezdirdim. Ne harika bir kaynak. Baktım böyle olmayacak, oturdum doğruca keylogger'ı geliştirmeye koyuldum. **Sanıyorum 2019'un Ocak ayı...** Bir şeyi lazım olunca öğrenmek, öğrenme hızını ve akılda kalıcılığı artırıyor. Yeni bir şeyler öğrenilecekse, konulara hızlıca göz gezdirip hemencecik nesnel bir şeyler yapmaya koyulmak; tecrübe ederek, söküp takarak öğrenmek en iyisi. İşe başlamadan önce temel konulara göz gezdirmek ise gerektiğinde aradığını daha hızlı bulmayı sağlıyor. Haritaya hızlıca göz gezdirdikten sonra kendini sokağa atıp sokaklarda kaybolarak şehri öğrenmeye koyulmak gibi.
 
@@ -67,7 +67,7 @@ One day I wanted to develop **Keylogger** and **Screenlogger**. Although **not l
 
 I couldn't do it the way I wanted with **Python**. C needed. **Deitel C** **winked**.
 
-![Barbara herhalde. Manken olan...](./assets/img/manken-olan-barbara-winked-me.gif "Barbara herhalde. Manken olan...")
+![Barbara herhalde. Manken olan...](./assets/gif/manken-olan-barbara-winked-me.gif "Barbara herhalde. Manken olan...")
 
 I read for a while. What a great book. When i realize it won't be this way, I sat down and started to develop the keylogger. **I think it's January of 2019...** Learning something when needed increases learning speed and retention. If something new is to be learned, quickly skim through the topics and immediately get started doing something; It is best to learn by experiencing, disassembling and assembling. Taking a look at the basics before starting work helps you find what you're looking for faster when needed. It's like taking a quick glance at the map and then getting lost in the streets and learning about the city.
 
