@@ -49,7 +49,7 @@ Yüklenebilir screenlogger. **Fareyle her tıklamada ekran görüntüsü alır.*
 
 **Not:** Hatırlatmakta fayda var: Üç yılın ardından **truva atı** olarak yakalanıyor. Pepe çok üzülüyor.
 
-![Dursun sen kaç, beni tanıdılar.](./assets/img/busted.png "Dursun sen kaç, beni tanıdılar.")
+![Dursun sen kaç, beni tanıdılar.](./assets/img/logger-busted.png "Dursun sen kaç, beni tanıdılar.")
 
 ![Pepe Çok Üzülüyor](./assets/img/pepe-cok-uzuluyor.jpg "Pepe Çok Üzülüyor")
 
@@ -102,6 +102,6 @@ Installable screenlogger. **It takes a screenshot with every mouse click.** It i
 
 **Note:** Remember: After three years, it is caught as a **trojan**. Pepe is very upset.
 
-![Dursun sen kaç, beni tanıdılar.](./assets/img/busted.png "Dursun sen kaç, beni tanıdılar.")
+![Dursun sen kaç, beni tanıdılar.](./assets/img/logger-busted.png "Dursun sen kaç, beni tanıdılar.")
 
 ![Pepe Çok Üzülüyor](./assets/img/pepe-cok-uzuluyor.jpg "Pepe Çok Üzülüyor")
