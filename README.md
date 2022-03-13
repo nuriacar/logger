@@ -11,7 +11,7 @@ Bir gün **Keylogger** ve **Screenlogger** geliştirmek istedim. Her ne kadar **
 + Web arayüzünden servis sunsun, canlı izleme imkanı versin
 + İstatistik tutsun, verimlilik ölçsün
 
-**Python**'la istediğim şekilde yapamazmışım. C gerekiyormuş. **Deitel C**, kitalığımdan "**kıps**" yaptı.
+**Python**'la istediğim şekilde yapamazmışım. C gerekiyormuş. **Deitel C**, kitaplığımdan "**kıps**" yaptı.
 
 ![Barbara herhalde. Manken olan...](./assets/img/manken-olan-barbara-winked-me.gif "Barbara herhalde. Manken olan...")
 
